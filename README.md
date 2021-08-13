@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 
-[comment]: <> ( 🌱 I’m currently learning Go ...)
  
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,10 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<font face="楷体">
-<center>👋 hello,welcome to the github of glong</center>
-<center>here are some parts of my self-introduction 😄</center>
-<center>job:RD,wx:MTU3MDMyNzY5Mzg= 💬</center>
+<p align="center">
+<center>👋 hello,welcome to the github of glong<br></center>
+<center>here are some parts of my self-introduction 😄<br></center>
+<center>job:RD,wx:MTU3MDMyNzY5Mzg= 💬<br></center>
 <center>🔭 I’m currently working on Go ...</center>
-</font>
+</p>
 
