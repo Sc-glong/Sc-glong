@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 <br>here are some parts of my self-introduction 😄
 <br>job:RD,wx:MTU3MDMyNzY5Mzg= 💬
 <br>🔭 I’m currently working on Go ...
+<br><img src="https://i.imgur.com/1C39PVg.gif" width="240px" align="center">
+<br><a href="https://guoguo123.fun" target="_blank">my blog</a>
 </p>
 
