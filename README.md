@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <p align="center">
-<center>👋 hello,welcome to the github of glong<br></center>
-<center>here are some parts of my self-introduction 😄<br></center>
-<center>job:RD,wx:MTU3MDMyNzY5Mzg= 💬<br></center>
-<center>🔭 I’m currently working on Go ...</center>
+<br>👋 hello,welcome to the github of glong
+<br>here are some parts of my self-introduction 😄
+<br>job:RD,wx:MTU3MDMyNzY5Mzg= 💬
+<br>🔭 I’m currently working on Go ...
 </p>
 
